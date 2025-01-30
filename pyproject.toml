@@ -7,7 +7,7 @@ name = "src"
 version = "0.0.1"
 description = "A short description of the project."
 authors = [
-  { name = "penguinma" },
+  { name = "Data Science Lab" },
 ]
 
 readme = "README.md"
