@@ -5,9 +5,9 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "src"
 version = "0.0.1"
-description = "A short description of the project."
+description = "The EDA_GPT for variable EDA task."
 authors = [
-  { name = "Data Science Lab" },
+  { name = "Penguinma" },
 ]
 
 readme = "README.md"
